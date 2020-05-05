@@ -23,7 +23,7 @@ Restart your shell after updating.
 
 ### Running ZST
 Navigate to the src folder and run:
-`$  python3 Zumies_Sale_Tracker`
+`$  python3 Zumies_Sale_Tracker.py`
 Fill in the required prompts.
 > Product Name: This is an identifier used to email the user a product SKU has been found.
 
