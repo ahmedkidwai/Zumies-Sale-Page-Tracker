@@ -29,4 +29,3 @@ Fill in the required prompts.
 > Sales Page URL: Navigate to the section your product is found (example: Sale > Skateboards > Cruisers Completes) and copy the URL. The application will scan this page for products.
 
 > Email: This is the email you want to receive updates to.
-

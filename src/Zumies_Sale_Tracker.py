@@ -9,7 +9,7 @@ import os
 def main():
     product_identifier = input(
         "What is the name of the product you are looking for: ")
-    sku = input("What is the product SKU: ")
+    sku = input("What is the product's SKU: ")
     url = input("Enter the sales page you would like monitored: ")
     receiver = input(
         "What email do you want to be alerted on when a product is found: ")
