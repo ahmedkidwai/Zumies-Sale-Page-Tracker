@@ -1,8 +1,8 @@
 # Zumies Sales Tracker
 
-> Easy to use sales page tracker for the Zumies e-commerce store
+> An Easy to use sales page tracker for the Zumies e-commerce store
 
-> Created because I got tired of missing sales on longboards/cruisers 🛹.
+> Created because I got tired of missing sales on longboards/cruisers 🛹
 
 ### Setup
 
@@ -19,12 +19,12 @@ export PASSWORD="app-specific-password"
 Restart your shell after updating.
 
 ### Running ZST
-Navigate to the src folder and run
+Navigate to the src folder and run:
 `$  python3 Zumies_Sale_Tracker`
 Fill in the required prompts.
->Product Name: This is an identifier used to email the user a product SKU has been found.
+> Product Name: This is an identifier used to email the user a product SKU has been found.
 
->SKU: The SKU is the unique product identifer the application uses to check if a product is on sale.
+> SKU: The SKU is the unique product identifer the application uses to check if a product is on sale.
 
 > Sales Page URL: Navigate to the section your product is found (example: Sale > Skateboards > Cruisers Completes) and copy the URL. The application will scan this page for products.
 
