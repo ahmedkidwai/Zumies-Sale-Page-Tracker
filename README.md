@@ -4,6 +4,9 @@
 
 > Created because I got tired of missing sales on longboards/cruisers 🛹
 
+### What is it?
+Zumies Sales Tracker (ZST) allows users to enter product information along with a page to scrape. In the event a matching SKU is found, ZST will email the user to inform them. The application scrapes the user provided URL every 10 minutes.
+
 ### Setup
 
 The Zumies Sale Tracker (ZST) requires users email credentials to send off emails. ZST checks environement variables for email addresses and passwords. App specific passwords are still recommended - Instructions for [Gmail Users](https://support.google.com/accounts/answer/185833?hl=en)
