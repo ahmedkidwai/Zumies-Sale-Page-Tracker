@@ -1,4 +1,4 @@
-# Zumies Sales Tracker
+# Zumies Sale Tracker
 
 > An Easy to use sales page tracker for the Zumies e-commerce store
 
